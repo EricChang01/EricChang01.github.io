@@ -19,6 +19,9 @@ a:hover {
 }
 
 img {
-    border: 5px solid black;
+    border: 5px;
     padding: 10px;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
 }
