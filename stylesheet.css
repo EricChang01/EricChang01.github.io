@@ -1,0 +1,24 @@
+h1 {
+    color: blue;
+}
+
+.section {
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+#title {
+    text-align: center;
+    font-size: 2em;
+}
+
+a:hover {
+    color: red;
+}
+
+img {
+    border: 5px solid black;
+    padding: 10px;
+}
